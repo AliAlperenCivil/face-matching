@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Redundant on GitHub (GitHub provides "Download ZIP" automatically)
+*.zip
+
+# The professor's original course materials (not ours to redistribute)
+face/
+
+# Optional: uncomment the next two lines if you do NOT want your own
+# camera photos in a public repository
+for_training/camera_face.pgm
+for_testing/camera_test.pgm
