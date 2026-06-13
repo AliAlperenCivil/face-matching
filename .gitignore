@@ -17,3 +17,4 @@ face/
 # camera photos in a public repository
 for_training/camera_face.pgm
 for_testing/camera_test.pgm
+results/camera_test.png
